@@ -1,5 +1,5 @@
 {
-    "name": "didww/didww-api-3-php-sdk",
+    "name": "abreeden/didww-api-3-php-sdk",
     "description": "PHP SDK for DIDWW API 3",
     "type": "library",
     "license": "MIT",
